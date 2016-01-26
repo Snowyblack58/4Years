@@ -1,0 +1,255 @@
+-Computer Science
+Foundations of Computer Science	3184T1	1.0	0.50	Foundations CompSci	9,10
+Foundations of Computer Science Accelerated	3184T2	1.0	0.50	Foundations CompSci Acc	9,10
+AP Computer Science A plus Data Structures	318561	1.0	1.00	AP Computer Sci A+	9,10,11,12
+Artificial Intelligence 1	319966	0.5	1.00	Artificial Intel 1	10,11,12
+Artificial Intelligence 2	319967	0.5	1.00	Artificial Intel 2	10,11,12
+Web Application Development	3199J1	0.5	1.00	Web App Dev	10,11,12
+Mobile App Development	3199J2	0.5	1.00	Mobile App Dev	10,11,12
+Parallel Computing 1	3199T1	0.5	1.00	Parallel Computing 1	10,11,12
+Parallel Computing 2	3199T2	0.5	1.00	Parallel Computing 2	10,11,12
+-English
+English 9	1130T1	1.0	0.50	English 9	9
+English 10 (CHUM)	114000	1.0	0.50	English 10 (CHUM)	10
+English 10	1140T1	1.0	0.50	English 10	10
+English 11 (teamed with AP US History)	1150T1	1.0	0.50	English 11	11
+English 11 (teamed with Honors US/VA History)	1150T2	1.0	0.50	English 11	11
+English 12	1160T1	1.0	0.50	English 12	12
+AP English Literature and Composition	119504	1.0	1.00	AP English Lit/Comp	12
+AP English Literature / Senior Seminar	119561	1.0	1.00	AP English Lit/Comp	12
+AP English 12 Language and Composition	119604	1.0	1.00	AP English 12 Lang/Comp	12
+AP English Language / Global Studies	119662	1.0	1.00	AP English Lang/Comp	12
+Journalism 1	120000	1.0	0.00	Journalism 1	9,10,11,12
+Journalism 2	121000	1.0	0.00	Journalism 2	9,10,11,12
+Journalism 3	121100	1.0	0.00	Journalism 3	9,10,11,12
+Journalism 4	121200	1.0	0.00	Journalism 4	9,10,11,12
+Photo Journalism 1	121500	1.0	0.00	Photo Journalism 1	9,10,11,12
+Photo Journalism 2	121600	1.0	0.00	Photo Journalism 2	10,11,12
+Photo Journalism 3	121700	1.0	0.00	Photo Journalism 3	11,12
+Broadcast Journalism 1	122000	1.0	0.00	Broadcast Journ 1	10,11,12
+Film Study	144632	0.5	0.00	Film Study	9,10,11,12
+-Health and PE
+Health and Physical Education 9	730000	1.0	0.00	Health and PE 9	9
+Health and Physical Education 10 with Driver Education	740500	1.0	0.00	Health and PE 10	10
+Sports Medicine	763032	0.5	0.00	Sports Medicine	10,11,12
+-Math
+Advanced Topics in Calculus	313400	0.5	1.00	Adv Topics in Calc	10,11,12
+TJHSST Math 3	313753	0.5	0.50	TJ Math 3	9,10
+TJHSST Math 4	313754	0.5	0.50	TJ Math 4	9,10
+Advanced Algebra 2 with Trigonometry and Data Analysis	3137T1	1.0	0.50	Algebra 2 HN/Trig Topics	9,10
+TJHSST Math 1	314351	0.5	0.50	TJ Math 1	9
+TJHSST Math 2	314352	0.5	0.50	TJ Math 2	9,10
+Advanced Geometry with Discrete Mathematics Topics	3143T1	1.0	0.50	Geometry HN	9
+TJHSST Math 5	316055	0.5	0.50	TJ Math 5	9,10
+TJHSST Math 6	316056	0.5	0.50	TJ Math 6	9,10
+Advanced Pre-Calculus	3160T1	1.0	0.50	Precalc Topics	9,10,11
+AP Calculus AB	317004	1.0	1.00	AP Calculus AB	9,10,11,12
+AP Calculus BC	317704	1.0	1.00	AP Calculus BC	9,10,11,12
+Multivariable Calculus	317860	0.5	1.00	Multivar Calc	9,10,11,12
+Differential Equations	317861	0.5	1.00	Diff Equations	10,11,12
+Complex Variables	317862	0.5	1.00	Complex Analysis	10,11,12
+TJHSST Research & Statistics 1	3190T1	0.5	0.50	TJ Res Stat 1	9,10
+TJHSST Research & Statistics 2	3190T2	0.5	0.50	TJ Res Stat 2	9,10
+AP Statistics	319204	1.0	1.00	AP Statistics	11,12
+Linear Algebra	319800	0.5	1.00	Matrix Algebra	9,10,11,12
+Mathematics Techniques for Scientists and Engineers	319862	0.5	1.00	Math Techniques	10,11,12
+Cryptography	3199T0	0.5	0.50	Cryptography	10,11,12
+Mathematics of Finance	3199T8	0.5	0.50	Math of Finance	10,11,12
+Probability Theory	3199TA	0.5	1.00	Probability Theory	10,11,12
+Concrete Math	3199TB	0.5	1.00	Concrete Math	10,11,12
+-Online
+English 12 Honors	116097	1.0	0.50	English 12	12
+Creative Writing 1	117198	0.5	0.00	Creative Writing 1	9,10,11,12
+Creative Writing 2	117298	0.5	0.00	Creative Writing 2	9,10,11,12
+AP English Literature	119593	1.0	1.00	AP English Lit	12
+AP English 12 Language and Composition	119693	1.0	1.00	AP English Lang	12
+World History and Geography 1 Honors	221997	1.0	0.50	World Hist/Geog 1 HN	9,10,11,12
+Virginia and United States Government Honors	244097	1.0	0.50	US/VA Government HN	12
+AP US Government and Politics	244593	1.0	1.00	AP Government	12
+AP Microeconomics	280292	0.5	1.00	AP Microeconomics	10,11,12
+AP Macroeconomics	280392	0.5	1.00	AP Macroeconomics	10,11,12
+Psychology	290099	1.0	0.00	Psychology	9,10,11,12
+AP Psychology	290292	0.5	1.00	AP Psychology	9,10,11,12
+AP Calculus AB	317093	1.0	1.00	AP Calculus AB	12
+AP Statistics	319293	1.0	1.00	AP Statistics	11,12
+Oceanography	425099	1.0	0.00	Oceanography	9,10,11,12
+Spanish 3	553099	1.0	0.00	Spanish 3	9,10,11,12
+AP Spanish Language	557093	1.0	1.00	AP Spanish Lang	9,10,11,12
+AP Spanish Literature	558093	1.0	1.00	AP Spanish Lit	9,10,11,12
+Korean 1	587099	1.0	0.00	Korean 1	9,10,11,12
+Korean 2	587599	1.0	0.00	Korean 2	9,10,11,12
+Korean 3	588099	1.0	0.00	Korean 3	9,10,11,12
+Economics and Personal Finance	612099	1.0	0.00	Econ & Pers Fin	9,10,11,12
+Economics & Personal Finance (Self Paced)	6120VV	1.0	0.00	Econ/Pers Finance	9,10,11
+Advanced Accounting	632199	1.0	0.00	Adv Accounting	9,10,11,12
+Health and Physical Education 9	730099	1.0	0.00	Health and PE 9	9
+Health and Physical Education 10 with Driver Education	740599	1.0	0.00	Health and PE 10	10
+-Performing Arts
+Theatre Arts 1	141032	0.5	0.00	Theatre Arts 1	9,10,11,12
+Theatre Arts 2	142032	0.5	0.00	Theatre Arts 2	9,10,11,12
+Theatre Arts 3	143032	0.5	0.00	Theatre Arts 3	9,10,11,12
+Tech Theatre 1	143532	0.5	0.00	Tech Theatre 1	9,10,11,12
+Theatre Arts 4	144032	0.5	0.00	Theatre Arts 4	9,10,11,12
+AP Music Theory	922604	1.0	1.00	AP Music Theory	9,10,11,12
+Symphonic Band (Intermediate Level)	923315	1.0	0.00	Symphonic Band	9,10,11,12
+Symphonic Wind Ensemble Band (Advanced/Artist Level)	923415	1.0	0.00	Advanced Band	9,10,11,12
+Advanced Orchestra (Concert)	923915	1.0	0.00	Advanced Orchestra	9,10,11,12
+Jazz Band	924016	1.0	0.00	Jazz Ensemble	10,11,12
+Advanced Mixed Chorus	928915	1.0	0.00	Adv Mixed Chorus	9,10,11,12
+-Science
+Geosystems	4220T1	1.0	0.50	Geosystems	12
+Advanced Astronomy: The Solar System	4260T4	0.5	0.50	Adv Astr Solar Sys	11,12
+Advanced Astronomy: The Universe	4260T5	0.5	0.50	Adv Astr Universe	11,12
+Biology 1	4310T1	1.0	0.50	Biology 1	9
+Advanced Marine Biology	4320T1	0.5	0.50	Adv Marine Biology	10,11,12
+DNA Science 1	4320T6	0.5	0.50	DNA Science 1	10,11,12
+DNA Science 2	4320T7	0.5	0.50	DNA Science 2	10,11,12
+Neurobiology	4320T8	0.5	1.00	Neurobiology	11,12
+AP Biology	437004	1.0	1.00	AP Biology	10,11,12
+Chemistry 1 (CHUM)	441000	1.0	0.50	Chemistry (CHUM)	10
+Chemistry 1	4410T1	1.0	0.50	Chemistry 1	10
+Introductory Organic Chemistry with Instrumental Analysis	4420T4	0.5	1.00	Intro Org Chem 1	11,12
+AP Chemistry	447004	1.0	1.00	AP Chemistry	10,11,12
+Physics 1	4510T1	1.0	0.50	Physics 1	11
+Computational Physics	4520T1	0.5	0.50	Computational Physics	11,12
+Introduction to Optics Systems and Phenomena	4520T8	0.5	0.50	Optical Systems	10,11,12
+Relativity, Electrodynamics, and Quantum Mechanics	4520T9	1.0	1.00	Electrodynamics	12
+AP Physics C -- Mechanics and Electricity and Magnetism	457004	1.0	1.00	AP Physics C	11,12
+Physiology and the Arts	4610T5	0.5	0.50	Physiology / the Arts	10,11,12
+Bionanotechnology	4610T6	0.5	0.50	Bionanotechnology	10,11,12
+-Senior Research
+Mobile & Web Application Development Research	3199R1	1.0	0.50	Mob & Web App Res	12
+Computer Systems Research	3199T3	1.0	0.50	Comp Systems Res	12
+Mentorship	4220T3	1.0	0.50	Mentorship	12
+Astronomy Research	4260T2	1.0	0.50	Astronomy Res	12
+Life Sciences and Biotechnology Research	4320T3	1.0	0.50	Biotech Research	12
+Neuroscience Research	4320T5	1.0	0.50	Neuroscience Res	12
+Chemical Analysis and Nanochemistry Research	4420T2	1.0	0.50	Chem Analysis Res	12
+Quantum Physics and Optics Research	4520T4	1.0	0.50	Optics Research	12
+Oceanography and Geophysical Systems Research	4610T1	1.0	0.50	Oceanography Res	12
+MicroElectronics Research	9826T2	1.0	0.50	MicroElectronics Res	12
+Communication Systems Research	9826T4	1.0	0.50	Comm Systems Res	12
+Automation and Robotics Research	9826T9	1.0	0.50	Aut/Rob Res	12
+Energy Systems Research	9828T1	1.0	0.50	Energy Systems Res	12
+Engineering Design Research	9828T3	1.0	0.50	Engineering Des Res	12
+Prototyping and Engineering Materials Research	9828T6	1.0	0.50	Prototype Dev Res	12
+-Social Studies
+Ancient and Classical Civilizations	2219T1	1.0	0.50	Ancient Civ	9,10
+World History & Geography 2 (CHUM)	222100	1.0	0.50	World Hist 2 (CHUM)	10
+World History and Geography 2 Honors	2221T1	1.0	0.50	World Hist/Geog 2	10
+AP US History	231905	1.0	1.00	AP US History	11
+20th Century World History	2340T1	0.5	0.50	20th Cen Wrld Hist	10,11,12
+US and Virginia History Honors	2360T1	1.0	0.50	US/VA History	11
+Physical / Cultural Anthropology	2374T1	0.5	0.50	Cultural Studies	10,11,12
+AP European History	239904	1.0	1.00	AP European Hist	10,11,12
+Law and Society	2420T1	0.5	0.50	Law and Society	10,11,12
+AP US Government and Politics	244504	1.0	1.00	AP Government	12
+AP US Government / Senior Seminar	244506	1.0	1.00	AP Government	12
+AP US Government / Global Studies	244561	1.0	1.00	AP Government	12
+Economic Theory	2800T1	0.5	0.50	Economic Theory	10,11,12
+AP Microeconomics	280204	0.5	1.00	AP Microeconomics	9,10,11,12
+AP Macroeconomics	280304	0.5	1.00	AP Macroeconomics	9,10,11,12
+AP Macro/Micro Economics	280404	1.0	1.00	AP Mac/Mic Econ	9,10,11,12
+Psychology: Mind, Body, & Behavior	2900T1	0.5	0.50	Psych: Brain& Beh	10,11,12
+AP Psychology	290204	1.0	1.00	AP Psychology	11,12
+Inquiry in Ideas	2950T1	0.5	0.50	Inquiry into Ideas	10,11,12
+Religious Studies	2950T2	0.5	0.50	Religious Studies	10,11,12
+History of Science and Ideas	2996T1	1.0	0.50	History of Science	10,11,12
+America and the World since 1989	2996T2	0.5	0.50	Am/Wrld Since 1989	10,11,12
+One Question	2998T1	0.5	0.50	One Question	10,11,12
+Ethical Leadership	2998T2	0.5	0.50	Ethical Leadership	10,11,12
+-Summer School
+FCPS Summer School Course	FCPSSumSch	1.0	0.00	FCPS Summer School	9,10,11,12
+NonFCPS Summer School	NonFCPSSum	1.0	0.00	NonFCPSSum	9,10,11,12
+20th Century World History	TJA2340	0.5	0.50	20th Cen Wrld Hist	10,11,12
+World History and Geography 1	TJA2351	1.0	0.00	World Hist/Geog 1	9,10,11,12
+Ancient & Classical Civilizations	TJA2361	1.0	0.50	Ancient Civ	9,10
+America and the World Since 1989	TJA2996	0.5	0.50	Am/Wrld Since 1989	10,11,12
+TJHSST Math 5	TJA3160	0.5	0.50	TJ Math 5	10,11,12
+Foundations of Computer Science	TJA3184	1.0	0.50	Foundations CompSci	10,11
+TJHSST Research & Statistics 1	TJA3190	0.5	0.50	TJ Res Stat 1	9
+Chemistry 1 Honors	TJA4410	1.0	0.50	Chemistry 1 HN	10
+-Technology
+Advanced Communications Data Stream	9826J0	0.5	0.50	Data Stream	10,11,12
+Advanced Communications Signal Processing	9826J1	0.5	0.50	Signal Processing	10,11,12
+Audio Electronics	9826T0	0.5	0.50	Audio Electronics	10,11,12
+Advanced Microprocessor System Design	9826T1	0.5	0.50	Adv Microproc Sys	10,11,12
+Advanced Analog Electronics	9826T5	0.5	0.50	Acc Analog Elect	10,11,12
+Advanced Digital Electronics	9826T6	0.5	0.50	Acc Digital Elect	10,11,12
+Automation and Robotics 2 Microcontroller Based Systems	9826T7	0.5	0.50	Aut/Rob-Micro Sys	10,11,12
+Automation and Robotics 1 Robot Design & Prototyping	9826T8	0.5	0.50	Aut/Rob-Systems	10,11,12
+Engineering Design	9828J1	0.5	0.50	Eng Design	10,11,12
+Prototyping 1	9828T0	0.5	0.50	Prototyping 1	10,11,12
+Specialized Computer Assisted Design	9828T2	0.5	0.50	Spec Comp Asst Des	10,11,12
+Prototyping 2	9828T4	0.5	0.50	Prototyping 2	10,11,12
+Introduction to Engineering Accelerated Advanced	9828T5	1.0	0.50	Intro Engr Acc Adv	10,11,12
+Energy Systems 2	9828T8	0.5	0.50	Energy Sys 2	10,11,12
+Energy Systems 1	9828T9	0.5	0.50	Energy Sys 1	10,11,12
+Design and Technology	984060	1.0	0.00	Design and Tech	9,10
+-Visual Arts
+Art 1	912032	0.5	0.00	Art 1	9,10,11,12
+Art 2	913032	0.5	0.00	Art 2	9,10,11,12
+Art 3	914032	0.5	0.00	Art 3	9,10,11,12
+AP Studio Art	915004	1.0	1.00	AP Studio Art	10,11,12
+AP Art History	915104	1.0	1.00	AP Art History	10,11,12
+Art for Engineers	9153T0	0.5	0.00	Art for Engineers	9,10,11,12
+Computer Graphics 1	918032	0.5	0.00	Computer Graph 1	9,10,11,12
+Computer Graphics 2	918132	0.5	0.00	Computer Graph 2	9,10,11,12
+Photography 1	919332	0.5	0.00	Photography 1	9,10,11,12
+Photography 2	919432	0.5	0.00	Photography 2	9,10,11,12
+-World Languages
+French 1	511000	1.0	0.00	French 1	9,10,11,12
+French 2	512000	1.0	0.00	French 2	9,10,11,12
+French 3	513000	1.0	0.00	French 3	9,10,11,12
+French 4	514000	1.0	0.00	French 4	9,10,11,12
+La Francophonie travers les medias (French 5)	515000	1.0	0.00	French 5	9,10,11,12
+French 5 Sem1	5150T1	0.5	0.00	French 5 Sem1	10,11,12
+French 5 Sem2	5150T2	0.5	0.00	French 5 Sem2	10,11,12
+AP French Language	517004	1.0	1.00	AP French Lang	9,10,11,12
+German 1	521000	1.0	0.00	German 1	9,10,11,12
+German 2	522000	1.0	0.00	German 2	9,10,11,12
+German 3	523000	1.0	0.00	German 3	9,10,11,12
+German 4	524000	1.0	0.00	German 4	9,10,11,12
+German 5	525000	1.0	0.00	German 6	10,11,12
+German 5 Sem1	5250T1	0.5	0.00	German 5 Sem 1	10,11,12
+German 5 Sem2	5250T2	0.5	0.00	German 5 Sem 2	10,11,12
+AP German Language	527004	1.0	1.00	AP German Lang	9,10,11,12
+Latin 1	531000	1.0	0.00	Latin 1	9,10,11,12
+Latin 2	532000	1.0	0.00	Latin 2	9,10,11,12
+Latin 3	533000	1.0	0.00	Latin 3	9,10,11,12
+Latin 5	535000	1.0	0.00	Latin 5	9,10,11,12
+Latin 5 Sem1	5350T1	0.5	0.00	Latin 5 Sem1	10,11,12
+Latin 5 Sem2	5350T2	0.5	0.00	Latin 5 Sem2	10,11,12
+AP Latin: Vergil	537004	1.0	1.00	AP Latin-Vergil	9,10,11,12
+Russian 1	541000	1.0	0.00	Russian 1	9,10,11,12
+Russian 2	542000	1.0	0.00	Russian 2	9,10,11,12
+Russian 3	543000	1.0	0.00	Russian 3	9,10,11,12
+Russian 4	544000	1.0	0.00	Russian 4	9,10,11,12
+Russian 5	545000	1.0	0.00	Russian 5	9,10,11,12
+Russian 5 Sem1	5450T1	0.5	0.00	Russian 5 Sem1	10,11,12
+Russian 5 Sem2	5450T2	0.5	0.00	Russian 5 Sem2	10,11,12
+AP Russian Language	546004	1.0	1.00	AP Russian Lang	9,10,11,12
+Spanish 1	551000	1.0	0.00	Spanish 1	9,10,11,12
+Spanish 2	552000	1.0	0.00	Spanish 2	9,10,11,12
+Spanish 3	553000	1.0	0.00	Spanish 3	9,10,11,12
+Spanish 4	554000	1.0	0.00	Spanish 4	9,10,11,12
+Spanish 5	555000	1.0	0.00	Spanish 5	10,11,12
+Spanish 5 Sem1	5550T1	0.5	0.00	Spanish 5 Sem 1	10,11,12
+Spanish 5 Sem2	5550T2	0.5	0.00	Spanish 5 Sem 2	10,11,12
+AP Spanish Language	557004	1.0	1.00	AP Spanish Lang	9,10,11,12
+AP Spanish Literature	558004	1.0	1.00	AP Spanish Lit	9,10,11,12
+Chinese 1	581000	1.0	0.00	Chinese 1	9,10,11,12
+Chinese 2	582000	1.0	0.00	Chinese 2	9,10,11,12
+Chinese 3	583000	1.0	0.00	Chinese 3	9,10,11,12
+Chinese 4	584000	1.0	0.00	Chinese 4	9,10,11,12
+AP Chinese	584004	1.0	1.00	AP Chinese	9,10,11,12
+Chinese 5 Sem1	5850T1	0.5	0.00	Chinese 5 Sem1	10,11,12
+Chinese 5 Sem2	5850T2	0.5	0.00	Chinese 5 Sem2	10,11,12
+Japanese 1	591000	1.0	0.00	Japanese 1	9,10,11,12
+Japanese 2	592000	1.0	0.00	Japanese 2	9,10,11,12
+Japanese 3	593000	1.0	0.00	Japanese 3	9,10,11,12
+Japanese 4	594000	1.0	0.00	Japanese 4	9,10,11,12
+Japanese 5	595000	1.0	0.00	Japanese 5	10,11,12
+Japanese 5 Sem1	5950T1	0.5	0.00	Japanese 5 Sem1	10,11,12
+Japanese 5 Sem2	5950T2	0.5	0.00	Japanese 5 Sem2	10,11,12
+AP Japanese	597004	1.0	1.00	AP Japanese	9,10,11,12
